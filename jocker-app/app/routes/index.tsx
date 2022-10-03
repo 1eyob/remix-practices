@@ -7,7 +7,7 @@ export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: stylesUrl }];
 };
 
-export default function IndexRoute() {
+export default function IndexRoustylesUrlte() {
   return (
     <div className="container">
       <div className="content">
